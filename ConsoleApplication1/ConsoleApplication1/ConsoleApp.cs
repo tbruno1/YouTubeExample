@@ -8,6 +8,10 @@ namespace ConsoleApplication1
 {
     class ConsoleApp
     {
+        /// <summary>
+        /// Main demo
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             //Customer1 custA = new Customer1();
