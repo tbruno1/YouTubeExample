@@ -129,6 +129,12 @@ namespace ConsoleApplication1
 
             Console.WriteLine();
 
+            someCustomer.UpdateLocation("encino", "Cal", "91436");
+
+            Console.WriteLine("Customer info");
+            Console.WriteLine(someCustomer.CustomerName);
+            Console.WriteLine(someCustomer.Location);
+            Console.WriteLine(someCustomer.Country);
 
 
 
